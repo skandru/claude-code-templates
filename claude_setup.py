@@ -15,7 +15,7 @@ from typing import Dict, List, Optional
 class ClaudeProjectSetup:
     def __init__(self, project_name: str, project_path: Optional[str] = None):
         self.project_name = project_name
-        self.project_path = Path(project_path) if project_path else Path.cwd() / project_name
+        self.project_path = Path(project_path) / project_name if project_path else Path.cwd() / project_name
         self.claude_dir = self.project_path / ".claude"
         self.docs_dir = self.project_path / "docs"
         self.agents_dir = self.claude_dir / "agents"
