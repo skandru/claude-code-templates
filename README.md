@@ -322,7 +322,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🙏 Acknowledgments
 
-- **Chris Dunlop** for the five-agent workflow pattern
+- **Chris Dunlop** for the docs workflow pattern
 - **Claude Code Community** for workflow insights and best practices
 - **All Contributors** who have helped improve these templates
 
@@ -338,4 +338,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 <strong>⭐ If this project helps your workflow, please star the repository! ⭐</strong>
 
 <p>Built with ❤️ for the Claude Code community</p>
+
 </div>
